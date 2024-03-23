@@ -1,7 +1,5 @@
 /* eslint-disable global-require */
-import {
-    BREAKPOINTS, COLORS, FONT_FAMILY, FONT_SIZE, LINE_HEIGHT, SPACING, ZINDEX,
-} from './core/theme/vars';
+import { BREAKPOINTS, COLORS, FONT_FAMILY, FONT_SIZE, LINE_HEIGHT, SPACING, ZINDEX } from './src/theme/vars';
 
 const plugin = require('tailwindcss/plugin');
 
